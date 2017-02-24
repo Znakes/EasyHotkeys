@@ -10,6 +10,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+.localhostory/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -240,3 +242,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/.localhistory/EasyHotkeys
